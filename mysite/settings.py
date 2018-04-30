@@ -26,7 +26,7 @@ SECRET_KEY = 'cvv+#)wfs=s#hq=paasd2huofbsxed^+_coil--0n=vi4pkmkx'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['127.0.0.1', 'projet.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '']
 
 
 # Application definition
